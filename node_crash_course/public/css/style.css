@@ -1,4 +1,8 @@
 body {
-    background: #333;
+    font-family: Georgia, Times, serif;
+    background-color: #333;
     color: #fff;
+}
+h1 {
+    font-family: Helvetica, Arial
 }
