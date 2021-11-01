@@ -2,7 +2,29 @@ body {
     font-family: Georgia, Times, serif;
     background-color: #333;
     color: #fff;
+    line-height: 1;
+
 }
+
 h1 {
     font-family: Helvetica, Arial
+}
+
+ol, ul {
+	list-style: none;
+}
+
+blockquote, q {
+	quotes: none;
+}
+
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
 }
